@@ -1,15 +1,15 @@
-/* Body */
+/* Universal Styles */
 body {
     background-color: black;
     text-align: center;
 }
 
-/* Paragraph Styles */
-.para {
+a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aquamarine;
     font-size: 16px;
 }
+
 
 /* Header */
 #headertitle {
